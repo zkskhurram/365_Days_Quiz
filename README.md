@@ -28,12 +28,6 @@
 
 This repository documents my journey through **365 days of continuous learning**, tackling daily Python quizzes and data science challenges. The goal is to strengthen programming fundamentals, master data science concepts, and build a consistent learning habit.
 
-**Key Metrics:**
-- 📝 **Total Quizzes:** 365
-- ⏱️ **Daily Time Commitment:** ~15-30 minutes
-- 🎯 **Current Streak:** Day 1 (just started!)
-- 📊 **Target Completion:** January 8, 2027
-
 ## 💡 Motivation
 
 - Build rock-solid Python fundamentals through **spaced repetition**
